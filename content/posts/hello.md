@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
-title: "Is Something Wrong with Cale Makar? A Season in Review"
-date: "2017-08-21"
+title: "Is Something Wrong with Cale Makar?"
+date: "2024-04-21"
 description: "Example article description"
 categories:
   - "Category 1"
@@ -12,7 +12,7 @@ tags:
 
 # Theme-Defined params
 thumbnail: "img/placeholder.png" # Thumbnail image
-lead: "Example lead - highlighted near the title" # Lead text
+lead: "A Season in Review" # Lead text
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
