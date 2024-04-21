@@ -1,6 +1,6 @@
 ---
 # Common-Defined params
-title: "Example article title"
+title: "Is Something Wrong with Cale Makar? A Season in Review"
 date: "2017-08-21"
 description: "Example article description"
 categories:
