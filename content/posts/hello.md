@@ -25,4 +25,4 @@ widgets: # Enable sidebar widgets in given order per page
   - "taglist"
 ---
 
-Hello world! I'm Luke.
+Hello world! I'm Luke!
